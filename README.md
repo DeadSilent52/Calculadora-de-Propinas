@@ -1,6 +1,7 @@
 # Calculadora de Propinas con React + TypeScript + Vite
 
 
+![image](https://github.com/user-attachments/assets/116d35a2-1d4e-43b4-9659-df10fef8bf8d)
 
 Este proyecto es una aplicación interactiva que permite calcular propinas, la cual esta desarrollada con React y TypeScript, tambien se utilizo el framework Tailwind para diseñar una interfaz moderna y eficiente. Maneja estados con useState y optimiza el rendimiento con useMemo y useCallback. Contiene un hook que permite mejorar la eficiencia de la aplicación.
 
